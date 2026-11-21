@@ -1,0 +1,7 @@
+Lab 11 – Encrypted Evidence File (Challenge Lab)
+
+Layers peeled: 68
+Recovered count: 67
+
+Plaintext:
+Why do elephants have big ears?
